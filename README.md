@@ -11,9 +11,15 @@
   Python, Ciência de Dados e Inteligência Artificial.
 </p>
 
+<p align="center">
+  <a href="https://portfolio-lr-six.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_MEU_PORTFÓLIO-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
 ---
 
-### 🚀 Sobre mim
+## 🚀 Sobre mim
 
 - 🎓 Estudante de Desenvolvimento de Sistemas no SENAI.
 - 💻 Desenvolvendo projetos web e aplicações.
@@ -21,29 +27,41 @@
 - 🤖 Explorando Ciência de Dados e Inteligência Artificial.
 - 🎯 Meu objetivo é transformar ideias em soluções através da tecnologia.
 
-### 🛠️ Tecnologias e ferramentas
+---
+
+## 🛠️ Tecnologias e ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,firebase,supabase,git,github,vscode" />
 </p>
 
-### 📌 Projetos em destaque
+---
+
+## 📌 Projetos em destaque
 
 - 🌐 Desenvolvimento de sites responsivos.
 - 🥋 Sistemas de gerenciamento para academias.
 - 🎮 Projetos interativos com JavaScript.
 - 🤖 Estudos e projetos envolvendo Inteligência Artificial.
+- 📱 Aplicações e soluções digitais.
 
-### 📊 GitHub
+---
+
+## 📊 GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucas-Robson&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Robson&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
 </p>
 
-### 📫 Vamos nos conectar?
+---
 
-<p align="left">
+## 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="https://portfolio-lr-six.vercel.app/">
+    <img src="https://img.shields.io/badge/MEU_PORTFÓLIO-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://github.com/Lucas-Robson">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
