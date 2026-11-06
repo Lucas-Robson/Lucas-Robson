@@ -59,7 +59,7 @@
 ## 🌐 Onde me encontrar
 
 <p align="center">
-  <a href="https://portfolio-lr-six.vercel.app/">
+  <a href="https:[//portfolio-lr-delta.vercel.app/">
     <img src="https://img.shields.io/badge/MEU_PORTFÓLIO-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/Lucas-Robson">
