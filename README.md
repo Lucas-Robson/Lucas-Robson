@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-lr-six.vercel.app/">
+  <a href="https://portfolio-lr-delta.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_MEU_PORTFÓLIO-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
